@@ -1,0 +1,145 @@
+/* .App {
+  text-align: center;
+}
+
+header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+aside {
+  width: 25%;
+  padding: 20px;
+  background: #f0f0f0;
+  text-align: left;
+  float: left;
+}
+
+main {
+  margin-left: 30%;
+  padding: 20px;
+}
+
+.dropzone {
+  border: 2px dashed #ccc;
+  padding: 20px;
+  text-align: center;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+pre {
+  text-align: left;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+} */
+/* .App {
+  text-align: center;
+}
+
+header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+aside {
+  width: 25%;
+  padding: 20px;
+  background: #f0f0f0;
+  text-align: left;
+  float: left;
+}
+
+main {
+  margin-left: 30%;
+  padding: 20px;
+}
+
+.dropzone {
+  border: 2px dashed #ccc;
+  padding: 20px;
+  text-align: center;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+pre {
+  text-align: left;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+} */
+.App {
+    text-align: center;
+  }
+  
+  header {
+    background-color: #282c34;
+    padding: 20px;
+    color: white;
+  }
+  
+  aside {
+    width: 25%;
+    padding: 20px;
+    background: #f0f0f0;
+    text-align: left;
+    float: left;
+  }
+  
+  main {
+    margin-left: 30%;
+    padding: 20px;
+  }
+  
+  .dropzone {
+    border: 2px dashed #ccc;
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  pre {
+    text-align: left;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+  
